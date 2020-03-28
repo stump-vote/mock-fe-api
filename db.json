@@ -1,4 +1,4 @@
-[
+{"newsFeed":[
     {
        "type":"news",
        "topic":{
@@ -103,4 +103,4 @@
        "date":"Yesterday",
        "key":"newsFeed6"
     }
- ]
+ ]}
